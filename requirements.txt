@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+scikit-learn
+pandas
+joblib
+numpy
+scipy
+mlxtend
